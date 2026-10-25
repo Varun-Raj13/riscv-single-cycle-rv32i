@@ -1,0 +1,26 @@
+# Xilinx ISE / ISim build and simulation artifacts
+*.gise
+*.xise
+*.twr
+*.pad
+*.par
+*.pcf
+*.bgn
+*.bit
+*.drc
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.ptwx
+*.unroutes
+*.xpi
+_xmsgs/
+iseconfig/
+isim/
+fuse.log
+fuse.xmsgs
+fuseRelaunch.cmd
+isim.cmd
+isim.log
+*.wdb
